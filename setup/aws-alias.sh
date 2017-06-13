@@ -24,3 +24,6 @@ then
     # This is Mac.  Use open to open the notebook
     alias aws-nb='open http://$instanceIp:8888'
 fi
+
+
+export instanceId=i-00892462805ef1122
